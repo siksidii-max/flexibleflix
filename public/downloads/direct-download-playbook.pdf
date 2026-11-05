@@ -1,0 +1,62 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Contents 4 0 R /Resources << /Font << /F1 5 0 R >> >> >>
+endobj
+4 0 obj
+<< /Length 1072 >>
+stream
+BT
+/F1 20 Tf
+64 780 Td
+(The Direct Download Playbook) Tj
+/F1 11 Tf
+0 -30 Td
+18 TL
+(FlexibleFlix field guide - edition 2.4) Tj
+() Tj
+(1. Never gate a download behind a timer.) Tj
+(   A countdown is a tax on trust. Ship the file immediately.) Tj
+() Tj
+(2. Keep the download on the same origin.) Tj
+(   Same-origin links cannot be swapped for a redirect after the fact,) Tj
+(   and the browser's own download manager handles the transfer.) Tj
+() Tj
+(3. Reserve every ad slot before the network loads it.) Tj
+(   Fixed heights mean no layout shift and no chance of an overlay) Tj
+(   landing on top of the download button.) Tj
+() Tj
+(4. Label sponsored placements plainly.) Tj
+(   A muted 'Sponsored' label beats a box that impersonates a button.) Tj
+() Tj
+(5. Show size, version and date before the click.) Tj
+(   Visitors should never be surprised by what they are saving.) Tj
+() Tj
+(6. No pop-ups, pop-unders or interstitials. Ever.) Tj
+(   None of them convert better than a download that just works.) Tj
+() Tj
+(flexibleflix.example - direct downloads, zero detours) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000241 00000 n 
+0000001365 00000 n 
+trailer
+<< /Size 6 /Root 1 0 R >>
+startxref
+1435
+%%EOF

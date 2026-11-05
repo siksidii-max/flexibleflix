@@ -1,0 +1,17 @@
+FlexibleFlix Release Notes
+Catalog 2.4 - November 2026
+
+Added
+  - Player 2.4.1 for Windows and macOS.
+  - Dark theme pack 1.3.0 with ten palettes.
+  - Featured download panel with inline progress feedback.
+
+Changed
+  - Ad placements now reserve their exact height before render.
+  - File cards show version, size and publish date up front.
+
+Fixed
+  - Download links no longer open a new tab on Safari iOS.
+  - Toast announcements are now polite for screen readers.
+
+Nothing here phones home. No telemetry, no bundled installers.
